@@ -11,3 +11,4 @@ playwright
 concurrent-log-handler
 uuid
 jsbeautifier>=1.14.0
+mmh3
